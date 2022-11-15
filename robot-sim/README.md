@@ -3,7 +3,6 @@ Assignment I: Research Track
 
 # The goal of assignment
 
-
 The robot must autonomously detect the closest silver box in the area, then move towards it and grab it. After catching the silver token, it must detect the closest Gold box in the corners, move towards it and release the silver box in front of the gold box. This process should continue until there is no silver box that has never been grabbed.
 
 
@@ -50,6 +49,11 @@ $ python run.py semi.py
 ```bash
 $ python FULL.py NOT.py
 ```
+
+ https://user-images.githubusercontent.com/117012520/201989718-6f82c82a-0710-4721-a0c3-febe8f332ae7.mp4
+
+ 
+ 
 ## FLOW CHART FULL-AUTONOMOUS
 
 ![Ekran Görüntüsü - 2022-11-15 11-50-39](https://user-images.githubusercontent.com/117012520/201902114-55ff5ecb-5398-48e1-a9e5-1c3c8627db7c.png)
