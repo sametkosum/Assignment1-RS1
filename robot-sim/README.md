@@ -13,6 +13,7 @@ The robot must autonomously detect the closest silver box in the area, then move
 ![Ekran Görüntüsü - 2022-11-15 11-01-05](https://user-images.githubusercontent.com/117012520/201890442-bf79ffb9-ef43-4b43-8d4c-0b31a5f8515b.png)
 
 
+
 ### Installing and running
 
 ----------------------
@@ -55,6 +56,7 @@ $ python FULL.py NOT.py
 ![Ekran Görüntüsü - 2022-11-15 11-50-10](https://user-images.githubusercontent.com/117012520/201902122-87af2adc-5e84-4b44-afb8-71c7a1292f28.png)
 ![Ekran Görüntüsü - 2022-11-15 11-47-32](https://user-images.githubusercontent.com/117012520/201902137-189651ee-0d67-4424-9af2-ea4c32dfd821.png)
 ![Ekran Görüntüsü - 2022-11-15 11-48-46](https://user-images.githubusercontent.com/117012520/201902143-391aa100-951a-41f4-8305-c6d2640ce4bc.png)
+![FLOWCHART](https://user-images.githubusercontent.com/117012520/201989159-0012158e-8ba9-4069-9311-e0737e2afb60.png)
 
 
 
