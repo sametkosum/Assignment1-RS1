@@ -50,9 +50,6 @@ $ python run.py semi.py
 $ python FULL.py NOT.py
 ```
 
- https://user-images.githubusercontent.com/117012520/201989718-6f82c82a-0710-4721-a0c3-febe8f332ae7.mp4
-
- 
  
 ## FLOW CHART FULL-AUTONOMOUS
 
