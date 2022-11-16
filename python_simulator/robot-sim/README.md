@@ -180,3 +180,11 @@ As a result our robot fully capable of finding silver and golden tokens and succ
 Increasing the robot's field of view
 Avoiding other tokens
 Note: Now our robot fully autonomous but if the number of the silver and golden tokens are not equal and the number of the silver tokens is more than golden tokens number our program can be crash.
+
+### Conclusion
+
+As a result our robot fully capable of finding silver and golden tokens and successfully completing the assigned task no matter how many tokens. The robot can be improved by the following methods:
+
+Increasing the robot's field of view
+Avoiding other tokens
+Note: Now our robot fully autonomous but if the number of the silver and golden tokens are not equal and the number of the silver tokens is more than golden tokens number our program can be crash.
